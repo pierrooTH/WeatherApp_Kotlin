@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/gradient_bg.xml" value="0.3671875" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36153846153846153" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_fore_cast.xml" value="0.33" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Pierre/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_second_weather_details.xml" value="0.33" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_current_weather.xml" value="0.11752786220871327" />
+        <entry key="app/src/main/res/layout/activity_fore_cast.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_second_weather_details.xml" value="0.19482737428290223" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
