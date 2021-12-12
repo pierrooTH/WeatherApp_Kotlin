@@ -25,7 +25,7 @@ class SecondActivityWeatherDetails : AppCompatActivity() {
         binding.secondActivityTextView.text = dataFromMainActivity.location.name
         binding.secondActivityTemp.text = dataFromMainActivity.current.temp.toString()+"°C"
         binding.secondActivityDescription.text = dataFromMainActivity.current.condition.text
-        binding.secondActivityTextHumidity.text = "Taux d'humidité: " + dataFromMainActivity.current.humidity.toString()
+        binding.secondActivityTextHumidity.text = "Taux d'humidité: " + dataFromMainActivity.current.humidity.toString()+"%"
         binding.secondActivityTextFeelslike.text = "Température ressentie: " + dataFromMainActivity.current.feelslike.toString()+"°C"
         binding.secondActivityWind.text = "Il souffle un vent "+cardinalPoint()+" et sa vitesse est de " + dataFromMainActivity.current.wind_kph.toString()+" km/h"
 
